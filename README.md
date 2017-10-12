@@ -1,2 +1,4 @@
 # Checkers-Neural-Network
-Neural network that learns how to play checkers.
+Segunda tarea de Redes Neuronales.
+
+Programado y compilado en eclipse neon. Crear proyecto java y hacer pull de este repositorio. Para ver resultados, ejecutar archivo src/prediction/Game.java.
